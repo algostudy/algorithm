@@ -26,7 +26,7 @@ int main(void)
 			list[s[j]]++;
 		}
 
-		for ( int j = 0; j < 30000; j++ )
+		for ( int j = 0; j < 30001; j++ )
 		{
 			count += list[j];
 
