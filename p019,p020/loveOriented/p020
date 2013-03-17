@@ -1,0 +1,12 @@
+#!/usr/bin/pypy
+
+def cal_num_of_sides(i):
+	result = (24 + (-1+i)*i*(18+(-5+i)*i))/24
+	print "%d\n" %(result)
+	
+
+if __name__ == "__main__":
+	num = input()
+	for i in range(0, num):
+		n = input()
+		cal_num_of_sides(n)

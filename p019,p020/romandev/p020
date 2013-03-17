@@ -1,0 +1,11 @@
+#!/usr/bin/pypy
+
+import sys
+
+def f(n):
+    return (24 + (-1 + n) * n * (18 + (-5 + n) * n)) / 24
+
+test_case_count = int(sys.stdin.readline())
+
+for i in range(0, test_case_count):
+    print f(int(sys.stdin.readline()))
