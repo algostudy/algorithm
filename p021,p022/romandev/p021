@@ -1,0 +1,57 @@
+#!/usr/bin/pypy
+
+import math
+import sys
+
+def is_prime(a_number):
+	if a_number == 2:
+		return True
+	elif a_number % 2 == 0:
+		return False
+
+	sqrt_n = int(math.sqrt(a_number))
+
+	for i in range(3, sqrt_n, 2):
+		if a_number % i == 0:
+			return False;
+
+	return True;
+
+def powmod(a, n):
+	p = 1
+	for i in range(0, n):
+		p = (p * a) % n
+
+	return p
+
+def powmod2(a, b, n):
+	if b == 0:
+		return 1
+	elif b == 1:
+		return a
+	elif b % 2 == 1:
+		return (powmod2(a, b - 1, n) * a) % n
+	else:
+		temp = powmod2(a, b / 2, n)
+		return (temp * temp) % n
+
+def is_carmichael(a_number):
+	if is_prime(a_number):
+		return False
+
+	for a in range(2, a_number - 1):
+		if powmod2(a, a_number, a_number) != a:
+			return False
+
+	return True
+
+
+while True:
+	number = int(sys.stdin.readline())
+	if number == 0:
+		break
+
+	if is_carmichael(number):
+		print "The number " + str(number) + " is a Carmichael number."
+	else:
+		print str(number) + " is normal."

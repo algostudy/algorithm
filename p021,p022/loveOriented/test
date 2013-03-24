@@ -1,0 +1,23 @@
+#!/usr/bin/pypy
+import math
+
+def temp(a, b):
+	
+	c = a ** (b -1)
+	c = math.log(c, 10)
+	#b = math.log(b, 10)
+	#a = math.log(a, 10)
+	#k = (float)(c-1)/b
+	print c
+	k = 10 ** c
+	print k
+	k = k -1
+	k = k / b
+	print k
+	if k == int(k):
+		print "yes"
+
+if __name__ == "__main__":
+	num = input()
+	num2 = input()
+	temp(num2, num)

@@ -1,0 +1,74 @@
+#!/usr/bin/pypy
+
+import sys
+
+def read_nm():
+	nm = sys.stdin.readline().split()
+	return int(nm[0]), int(nm[1])
+
+def read_table():
+	n, m = read_nm()
+
+	friends = {}
+	foods = []
+	food = 0
+
+	edible = {}
+	for friend in sys.stdin.readline().split():
+		edible[friend] = 0
+
+	for i in range(0, m):
+		data = sys.stdin.readline().split()
+
+		foods.append(data[1:])
+		for j in range(1, int(data[0]) + 1):
+			friend = data[j]
+			if not friend in friends: friends[friend] = []
+			friends[friend].append(food)
+
+		food = food + 1
+
+	return friends, foods, edible
+
+def get_next_friend(edible):
+	for friend in edible:
+		if edible[friend] == 0:
+			return friend
+
+	return None
+
+
+best = 51
+def process():
+	friends, foods, edible = read_table()
+
+	global best
+	best = 51
+
+	def search(chosen):
+
+		global best
+	
+		if chosen >= best:
+			return
+
+		friend = get_next_friend(edible)
+		if friend == None:
+			best = chosen
+			return
+
+		for food in friends[friend]:
+			for another_friend in foods[food]:
+				edible[another_friend] = edible[another_friend] + 1
+			search(chosen + 1)
+			for another_friend in foods[food]:
+				edible[another_friend] = edible[another_friend] - 1
+		
+	search(0)
+	print best
+
+
+test_case_count = int(sys.stdin.readline())
+
+for i in range(0, test_case_count):
+	process()

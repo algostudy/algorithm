@@ -1,0 +1,19 @@
+#!/usr/bin/pypy
+
+def pow_pow(a,b,c):
+	val = 1
+	for i in range(b):
+		print "i %d" %(i)
+		val = val * a
+		val = val % c 
+	
+	print val 
+
+
+if __name__ == "__main__":
+	i = input()
+	pow_pow(2,i,i)
+
+	a = (2 ** i) % i
+	print "a %d" %(a)
+	

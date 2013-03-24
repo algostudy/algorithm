@@ -1,0 +1,78 @@
+#!/usr/bin/pypy
+import math
+
+if __name__ == "__main__":
+	prime = []
+	prime.append(2)
+	for i in range(3, 65000):
+		isPrime = 1
+		for j in prime:
+			if i % j == 0 :
+				isPrime = 0
+				break
+			
+		if isPrime == 1:
+			prime.append(i)	
+			#print i
+
+	
+	#while (inputValue = input()) != 0:
+	while 1:
+		isCarmichael = 1
+		inputValue = input()
+		if inputValue == 0:
+			break
+
+		if inputValue in prime:
+			print "%d is normal." %(inputValue)
+			continue	
+		
+		#for i in range(2, inputValue):
+		for i in range(2, 3):
+			'''
+			num1 = math.log(i)
+			num1 = (inputValue-1) * num1
+			print "num1 %f" %(num1)
+			num1 = num1 / 100000
+			num2 = math.exp(num1)
+			print "num2 %f" %(num2)
+			num3 = pow(num2, 100000)
+			print "num3 %f" %(num3)
+			'''
+			'''
+			num1  = math.log(i,10)
+			num1 = (inputValue - 1) * num1
+			print "num1 %d" %(num1)
+			num2 = 10 ** num1
+			num2 = num2 - 1
+			num2 = num2 / inputValue
+			if num2 != int(num2):
+				print "%d is normal." %(inputValue)
+				isCarmichael = 0
+				break
+			'''
+			
+			#print i
+	
+			val = 1
+			for j in range(inputValue):
+				#print "j %d" %(j)
+				val = val * i 
+				val = val % inputValue
+				if val == 0:
+					break;
+			
+			
+			#print "val %d" %(val)
+			if val != i or val == 0:
+
+			#print "result %d i %d\n" %(result,i)
+			#if result % inputValue != 0:
+				print "%d is normal." %(inputValue)
+				isCarmichael = 0
+				break
+		if isCarmichael == 1 :
+			print "The number %d is a Carmichael number." %(inputValue)
+				
+		
+	exit()	

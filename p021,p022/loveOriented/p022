@@ -1,0 +1,25 @@
+#!/usr/bin/pypy
+
+if __name__ == "__main__":
+	total = input()
+	name_friend = []	
+	
+	for i in range(total):
+		str = raw_input()
+		str = str.split()
+		#print str
+		num_friend = int(str[0])
+		num_food = int(str[1])
+		str = raw_input()
+		#print str
+		str = str.split()
+		for j in range(num_friend):
+			name_friend.append(str[j])
+			print name_friend[j]
+
+		for j in range(num_food):
+			str = raw_input()
+			str = str.split()
+			
+		
+	exit()
