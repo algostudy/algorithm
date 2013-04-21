@@ -1,0 +1,49 @@
+#include <stdio.h>
+	
+int order = 0;
+int rest[20];
+int next, num, decimal;
+
+
+
+int DtoB(int decimal) {
+
+	next = decimal / 2;
+	if(decimal < 2) {
+		return 0;
+	}
+	
+	rest[order] = decimal % 2;	
+	order++;
+	De_to_Bi(next);
+}
+
+void Print_Bi() {
+	
+	for(int i=order; i>0; i--) {
+		printf("%d",rest[order]);
+		rest[order] = 0;
+		order--;
+	}
+	printf("%n");
+
+}
+
+int main(void) {
+printf("0.start%n",num);
+	//take input
+	scanf("%d", &num);
+printf("1.insert num = %d%n",num);
+	for(int i=0; i<num; i++){	
+		scanf("%d", &decimal);
+printf("2.insert decimal %n");
+		//convert to Binary
+		DtoB(decimal);
+printf("3.excute DtoB %n");
+		Print_Bi();	
+printf("4.Print DtoB %n");
+	}	
+
+	return 0;
+}
+
