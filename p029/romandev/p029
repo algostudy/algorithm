@@ -1,0 +1,43 @@
+#!/usr/bin/pypy
+
+import sys
+
+def quick_sort(data, low, high):
+
+	if high - low <= 0:
+		return
+
+	pivot = data[low]
+	left = low
+	right = high + 1
+
+	while True:
+		while True:
+			left = left + 1
+			if left >= high or data[left] >= pivot: break
+
+		while True:
+			right = right - 1
+			if right <= low or data[right] <= pivot: break
+
+		if left < right:
+			tmp = data[left]
+			data[left] = data[right]
+			data[right] = tmp
+		else:
+			break
+
+	data[low] = data[right]
+	data[right] = pivot
+
+	quick_sort(data, low, right - 1)
+	quick_sort(data, right + 1, high)
+
+
+test_case_count = int(sys.stdin.readline())
+for i in range(test_case_count):
+	d = [int(x) for x in sys.stdin.readline().split()]
+	quick_sort(d, 0, len(d) - 1)
+	for x in d:
+		sys.stdout.write(str(x) + " ")
+	print
