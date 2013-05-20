@@ -1,0 +1,151 @@
+loop 4
+day_arr_week[3]
+day_arr_week[6]
+day_arr_week[9]
+day_arr_week[12]
+loop 3
+day_arr_week[4]
+day_arr_week[8]
+day_arr_week[12]
+loop 1
+day_arr_week[8]
+yes : day_arr_wkd[1] = 0, day_arr_week[1] = 0
+yes : day_arr_wkd[2] = 0, day_arr_week[2] = 0
+no : day_arr_wkd[3] = 0, day_arr_week[3] = 1
+no : day_arr_wkd[4] = 0, day_arr_week[4] = 1
+yes : day_arr_wkd[5] = 0, day_arr_week[5] = 0
+no : day_arr_wkd[6] = -1, day_arr_week[6] = 1
+no : day_arr_wkd[7] = -1, day_arr_week[7] = 0
+no : day_arr_wkd[8] = 0, day_arr_week[8] = 1
+no : day_arr_wkd[9] = 0, day_arr_week[9] = 1
+yes : day_arr_wkd[10] = 0, day_arr_week[10] = 0
+yes : day_arr_wkd[11] = 0, day_arr_week[11] = 0
+no : day_arr_wkd[12] = 0, day_arr_week[12] = 1
+no : day_arr_wkd[13] = -1, day_arr_week[13] = 0
+no : day_arr_wkd[14] = -1, day_arr_week[14] = 0
+5
+loop 8
+day_arr_week[12]
+day_arr_week[24]
+day_arr_week[36]
+day_arr_week[48]
+day_arr_week[60]
+day_arr_week[72]
+day_arr_week[84]
+day_arr_week[96]
+loop 6
+day_arr_week[15]
+day_arr_week[30]
+day_arr_week[45]
+day_arr_week[60]
+day_arr_week[75]
+day_arr_week[90]
+loop 4
+day_arr_week[25]
+day_arr_week[50]
+day_arr_week[75]
+day_arr_week[100]
+loop 2
+day_arr_week[40]
+day_arr_week[80]
+yes : day_arr_wkd[1] = 0, day_arr_week[1] = 0
+yes : day_arr_wkd[2] = 0, day_arr_week[2] = 0
+yes : day_arr_wkd[3] = 0, day_arr_week[3] = 1
+yes : day_arr_wkd[4] = 0, day_arr_week[4] = 1
+yes : day_arr_wkd[5] = 0, day_arr_week[5] = 0
+no : day_arr_wkd[6] = -1, day_arr_week[6] = 1
+no : day_arr_wkd[7] = -1, day_arr_week[7] = 0
+yes : day_arr_wkd[8] = 0, day_arr_week[8] = 1
+yes : day_arr_wkd[9] = 0, day_arr_week[9] = 1
+yes : day_arr_wkd[10] = 0, day_arr_week[10] = 0
+yes : day_arr_wkd[11] = 0, day_arr_week[11] = 0
+no : day_arr_wkd[12] = 0, day_arr_week[12] = 2
+no : day_arr_wkd[13] = -1, day_arr_week[13] = 0
+no : day_arr_wkd[14] = -1, day_arr_week[14] = 0
+no : day_arr_wkd[15] = 0, day_arr_week[15] = 2
+yes : day_arr_wkd[16] = 0, day_arr_week[16] = 0
+yes : day_arr_wkd[17] = 0, day_arr_week[17] = 0
+yes : day_arr_wkd[18] = 0, day_arr_week[18] = 0
+yes : day_arr_wkd[19] = 0, day_arr_week[19] = 0
+no : day_arr_wkd[20] = -1, day_arr_week[20] = 0
+no : day_arr_wkd[21] = -1, day_arr_week[21] = 0
+yes : day_arr_wkd[22] = 0, day_arr_week[22] = 0
+yes : day_arr_wkd[23] = 0, day_arr_week[23] = 0
+no : day_arr_wkd[24] = 0, day_arr_week[24] = 2
+no : day_arr_wkd[25] = 0, day_arr_week[25] = 2
+yes : day_arr_wkd[26] = 0, day_arr_week[26] = 0
+no : day_arr_wkd[27] = -1, day_arr_week[27] = 0
+no : day_arr_wkd[28] = -1, day_arr_week[28] = 0
+yes : day_arr_wkd[29] = 0, day_arr_week[29] = 0
+no : day_arr_wkd[30] = 0, day_arr_week[30] = 2
+yes : day_arr_wkd[31] = 0, day_arr_week[31] = 0
+yes : day_arr_wkd[32] = 0, day_arr_week[32] = 0
+yes : day_arr_wkd[33] = 0, day_arr_week[33] = 0
+no : day_arr_wkd[34] = -1, day_arr_week[34] = 0
+no : day_arr_wkd[35] = -1, day_arr_week[35] = 0
+no : day_arr_wkd[36] = 0, day_arr_week[36] = 2
+yes : day_arr_wkd[37] = 0, day_arr_week[37] = 0
+yes : day_arr_wkd[38] = 0, day_arr_week[38] = 0
+yes : day_arr_wkd[39] = 0, day_arr_week[39] = 0
+no : day_arr_wkd[40] = 0, day_arr_week[40] = 2
+no : day_arr_wkd[41] = -1, day_arr_week[41] = 0
+no : day_arr_wkd[42] = -1, day_arr_week[42] = 0
+yes : day_arr_wkd[43] = 0, day_arr_week[43] = 0
+yes : day_arr_wkd[44] = 0, day_arr_week[44] = 0
+no : day_arr_wkd[45] = 0, day_arr_week[45] = 2
+yes : day_arr_wkd[46] = 0, day_arr_week[46] = 0
+yes : day_arr_wkd[47] = 0, day_arr_week[47] = 0
+no : day_arr_wkd[48] = -1, day_arr_week[48] = 2
+no : day_arr_wkd[49] = -1, day_arr_week[49] = 0
+no : day_arr_wkd[50] = 0, day_arr_week[50] = 2
+yes : day_arr_wkd[51] = 0, day_arr_week[51] = 0
+yes : day_arr_wkd[52] = 0, day_arr_week[52] = 0
+yes : day_arr_wkd[53] = 0, day_arr_week[53] = 0
+yes : day_arr_wkd[54] = 0, day_arr_week[54] = 0
+no : day_arr_wkd[55] = -1, day_arr_week[55] = 0
+no : day_arr_wkd[56] = -1, day_arr_week[56] = 0
+yes : day_arr_wkd[57] = 0, day_arr_week[57] = 0
+yes : day_arr_wkd[58] = 0, day_arr_week[58] = 0
+yes : day_arr_wkd[59] = 0, day_arr_week[59] = 0
+no : day_arr_wkd[60] = 0, day_arr_week[60] = 2
+yes : day_arr_wkd[61] = 0, day_arr_week[61] = 0
+no : day_arr_wkd[62] = -1, day_arr_week[62] = 0
+no : day_arr_wkd[63] = -1, day_arr_week[63] = 0
+yes : day_arr_wkd[64] = 0, day_arr_week[64] = 0
+yes : day_arr_wkd[65] = 0, day_arr_week[65] = 0
+yes : day_arr_wkd[66] = 0, day_arr_week[66] = 0
+yes : day_arr_wkd[67] = 0, day_arr_week[67] = 0
+yes : day_arr_wkd[68] = 0, day_arr_week[68] = 0
+no : day_arr_wkd[69] = -1, day_arr_week[69] = 0
+no : day_arr_wkd[70] = -1, day_arr_week[70] = 0
+yes : day_arr_wkd[71] = 0, day_arr_week[71] = 0
+no : day_arr_wkd[72] = 0, day_arr_week[72] = 2
+yes : day_arr_wkd[73] = 0, day_arr_week[73] = 0
+yes : day_arr_wkd[74] = 0, day_arr_week[74] = 0
+no : day_arr_wkd[75] = 0, day_arr_week[75] = 2
+no : day_arr_wkd[76] = -1, day_arr_week[76] = 0
+no : day_arr_wkd[77] = -1, day_arr_week[77] = 0
+yes : day_arr_wkd[78] = 0, day_arr_week[78] = 0
+yes : day_arr_wkd[79] = 0, day_arr_week[79] = 0
+no : day_arr_wkd[80] = 0, day_arr_week[80] = 2
+yes : day_arr_wkd[81] = 0, day_arr_week[81] = 0
+yes : day_arr_wkd[82] = 0, day_arr_week[82] = 0
+no : day_arr_wkd[83] = -1, day_arr_week[83] = 0
+no : day_arr_wkd[84] = -1, day_arr_week[84] = 2
+yes : day_arr_wkd[85] = 0, day_arr_week[85] = 0
+yes : day_arr_wkd[86] = 0, day_arr_week[86] = 0
+yes : day_arr_wkd[87] = 0, day_arr_week[87] = 0
+yes : day_arr_wkd[88] = 0, day_arr_week[88] = 0
+yes : day_arr_wkd[89] = 0, day_arr_week[89] = 0
+no : day_arr_wkd[90] = -1, day_arr_week[90] = 2
+no : day_arr_wkd[91] = -1, day_arr_week[91] = 0
+yes : day_arr_wkd[92] = 0, day_arr_week[92] = 0
+yes : day_arr_wkd[93] = 0, day_arr_week[93] = 0
+yes : day_arr_wkd[94] = 0, day_arr_week[94] = 0
+yes : day_arr_wkd[95] = 0, day_arr_week[95] = 0
+no : day_arr_wkd[96] = 0, day_arr_week[96] = 2
+no : day_arr_wkd[97] = -1, day_arr_week[97] = 0
+no : day_arr_wkd[98] = -1, day_arr_week[98] = 0
+yes : day_arr_wkd[99] = 0, day_arr_week[99] = 0
+no : day_arr_wkd[100] = 0, day_arr_week[100] = 2
+57
