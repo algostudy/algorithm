@@ -1,0 +1,598 @@
+total case 2 
+suffle case 2
+[1][1] : 2
+[1][2] : 1
+[1][3] : 3
+[1][4] : 4
+[1][5] : 5
+[1][6] : 6
+[1][7] : 7
+[1][8] : 8
+[1][9] : 9
+[1][10] : 10
+[1][11] : 11
+[1][12] : 12
+[1][13] : 13
+[1][14] : 14
+[1][15] : 15
+[1][16] : 16
+[1][17] : 17
+[1][18] : 18
+[1][19] : 19
+[1][20] : 20
+[1][21] : 21
+[1][22] : 22
+[1][23] : 23
+[1][24] : 24
+[1][25] : 25
+[1][26] : 26
+[1][27] : 27
+[1][28] : 28
+[1][29] : 29
+[1][30] : 30
+[1][31] : 31
+[1][32] : 32
+[1][33] : 33
+[1][34] : 34
+[1][35] : 35
+[1][36] : 36
+[1][37] : 37
+[1][38] : 38
+[1][39] : 39
+[1][40] : 40
+[1][41] : 41
+[1][42] : 42
+[1][43] : 43
+[1][44] : 44
+[1][45] : 45
+[1][46] : 46
+[1][47] : 47
+[1][48] : 48
+[1][49] : 49
+[1][50] : 50
+[1][51] : 52
+[1][52] : 51
+[2][1] : 52
+[2][2] : 2
+[2][3] : 3
+[2][4] : 4
+[2][5] : 5
+[2][6] : 6
+[2][7] : 7
+[2][8] : 8
+[2][9] : 9
+[2][10] : 10
+[2][11] : 11
+[2][12] : 12
+[2][13] : 13
+[2][14] : 14
+[2][15] : 15
+[2][16] : 16
+[2][17] : 17
+[2][18] : 18
+[2][19] : 19
+[2][20] : 20
+[2][21] : 21
+[2][22] : 22
+[2][23] : 23
+[2][24] : 24
+[2][25] : 25
+[2][26] : 26
+[2][27] : 27
+[2][28] : 28
+[2][29] : 29
+[2][30] : 30
+[2][31] : 31
+[2][32] : 32
+[2][33] : 33
+[2][34] : 34
+[2][35] : 35
+[2][36] : 36
+[2][37] : 37
+[2][38] : 38
+[2][39] : 39
+[2][40] : 40
+[2][41] : 41
+[2][42] : 42
+[2][43] : 43
+[2][44] : 44
+[2][45] : 45
+[2][46] : 46
+[2][47] : 47
+[2][48] : 48
+[2][49] : 49
+[2][50] : 50
+[2][51] : 51
+[2][52] : 1
+start suffle!
+index size 2
+index 1
+src 0 dst 101
+k 1 shuffle_deck[index][k] = 2  dst 2
+k 2 shuffle_deck[index][k] = 1  dst 1
+k 3 shuffle_deck[index][k] = 3  dst 3
+k 4 shuffle_deck[index][k] = 4  dst 4
+k 5 shuffle_deck[index][k] = 5  dst 5
+k 6 shuffle_deck[index][k] = 6  dst 6
+k 7 shuffle_deck[index][k] = 7  dst 7
+k 8 shuffle_deck[index][k] = 8  dst 8
+k 9 shuffle_deck[index][k] = 9  dst 9
+k 10 shuffle_deck[index][k] = 10  dst 10
+k 11 shuffle_deck[index][k] = 11  dst 11
+k 12 shuffle_deck[index][k] = 12  dst 12
+k 13 shuffle_deck[index][k] = 13  dst 13
+k 14 shuffle_deck[index][k] = 14  dst 14
+k 15 shuffle_deck[index][k] = 15  dst 15
+k 16 shuffle_deck[index][k] = 16  dst 16
+k 17 shuffle_deck[index][k] = 17  dst 17
+k 18 shuffle_deck[index][k] = 18  dst 18
+k 19 shuffle_deck[index][k] = 19  dst 19
+k 20 shuffle_deck[index][k] = 20  dst 20
+k 21 shuffle_deck[index][k] = 21  dst 21
+k 22 shuffle_deck[index][k] = 22  dst 22
+k 23 shuffle_deck[index][k] = 23  dst 23
+k 24 shuffle_deck[index][k] = 24  dst 24
+k 25 shuffle_deck[index][k] = 25  dst 25
+k 26 shuffle_deck[index][k] = 26  dst 26
+k 27 shuffle_deck[index][k] = 27  dst 27
+k 28 shuffle_deck[index][k] = 28  dst 28
+k 29 shuffle_deck[index][k] = 29  dst 29
+k 30 shuffle_deck[index][k] = 30  dst 30
+k 31 shuffle_deck[index][k] = 31  dst 31
+k 32 shuffle_deck[index][k] = 32  dst 32
+k 33 shuffle_deck[index][k] = 33  dst 33
+k 34 shuffle_deck[index][k] = 34  dst 34
+k 35 shuffle_deck[index][k] = 35  dst 35
+k 36 shuffle_deck[index][k] = 36  dst 36
+k 37 shuffle_deck[index][k] = 37  dst 37
+k 38 shuffle_deck[index][k] = 38  dst 38
+k 39 shuffle_deck[index][k] = 39  dst 39
+k 40 shuffle_deck[index][k] = 40  dst 40
+k 41 shuffle_deck[index][k] = 41  dst 41
+k 42 shuffle_deck[index][k] = 42  dst 42
+k 43 shuffle_deck[index][k] = 43  dst 43
+k 44 shuffle_deck[index][k] = 44  dst 44
+k 45 shuffle_deck[index][k] = 45  dst 45
+k 46 shuffle_deck[index][k] = 46  dst 46
+k 47 shuffle_deck[index][k] = 47  dst 47
+k 48 shuffle_deck[index][k] = 48  dst 48
+k 49 shuffle_deck[index][k] = 49  dst 49
+k 50 shuffle_deck[index][k] = 50  dst 50
+k 51 shuffle_deck[index][k] = 52  dst 52
+k 52 shuffle_deck[index][k] = 51  dst 51
+index size 2
+index 2
+src 101 dst 102
+k 1 shuffle_deck[index][k] = 52  dst 51
+k 2 shuffle_deck[index][k] = 2  dst 1
+k 3 shuffle_deck[index][k] = 3  dst 3
+k 4 shuffle_deck[index][k] = 4  dst 4
+k 5 shuffle_deck[index][k] = 5  dst 5
+k 6 shuffle_deck[index][k] = 6  dst 6
+k 7 shuffle_deck[index][k] = 7  dst 7
+k 8 shuffle_deck[index][k] = 8  dst 8
+k 9 shuffle_deck[index][k] = 9  dst 9
+k 10 shuffle_deck[index][k] = 10  dst 10
+k 11 shuffle_deck[index][k] = 11  dst 11
+k 12 shuffle_deck[index][k] = 12  dst 12
+k 13 shuffle_deck[index][k] = 13  dst 13
+k 14 shuffle_deck[index][k] = 14  dst 14
+k 15 shuffle_deck[index][k] = 15  dst 15
+k 16 shuffle_deck[index][k] = 16  dst 16
+k 17 shuffle_deck[index][k] = 17  dst 17
+k 18 shuffle_deck[index][k] = 18  dst 18
+k 19 shuffle_deck[index][k] = 19  dst 19
+k 20 shuffle_deck[index][k] = 20  dst 20
+k 21 shuffle_deck[index][k] = 21  dst 21
+k 22 shuffle_deck[index][k] = 22  dst 22
+k 23 shuffle_deck[index][k] = 23  dst 23
+k 24 shuffle_deck[index][k] = 24  dst 24
+k 25 shuffle_deck[index][k] = 25  dst 25
+k 26 shuffle_deck[index][k] = 26  dst 26
+k 27 shuffle_deck[index][k] = 27  dst 27
+k 28 shuffle_deck[index][k] = 28  dst 28
+k 29 shuffle_deck[index][k] = 29  dst 29
+k 30 shuffle_deck[index][k] = 30  dst 30
+k 31 shuffle_deck[index][k] = 31  dst 31
+k 32 shuffle_deck[index][k] = 32  dst 32
+k 33 shuffle_deck[index][k] = 33  dst 33
+k 34 shuffle_deck[index][k] = 34  dst 34
+k 35 shuffle_deck[index][k] = 35  dst 35
+k 36 shuffle_deck[index][k] = 36  dst 36
+k 37 shuffle_deck[index][k] = 37  dst 37
+k 38 shuffle_deck[index][k] = 38  dst 38
+k 39 shuffle_deck[index][k] = 39  dst 39
+k 40 shuffle_deck[index][k] = 40  dst 40
+k 41 shuffle_deck[index][k] = 41  dst 41
+k 42 shuffle_deck[index][k] = 42  dst 42
+k 43 shuffle_deck[index][k] = 43  dst 43
+k 44 shuffle_deck[index][k] = 44  dst 44
+k 45 shuffle_deck[index][k] = 45  dst 45
+k 46 shuffle_deck[index][k] = 46  dst 46
+k 47 shuffle_deck[index][k] = 47  dst 47
+k 48 shuffle_deck[index][k] = 48  dst 48
+k 49 shuffle_deck[index][k] = 49  dst 49
+k 50 shuffle_deck[index][k] = 50  dst 50
+k 51 shuffle_deck[index][k] = 51  dst 52
+k 52 shuffle_deck[index][k] = 1  dst 2
+index size 1
+DBG Break
+King of Hearts
+2 of Clubs
+4 of Hearts
+5 of Spades
+6 of Clubs
+7 of Diamonds
+8 of Hearts
+9 of Spades
+10 of Clubs
+Jack of Diamonds
+Queen of Hearts
+King of Spades
+Ace of Clubs
+2 of Diamonds
+3 of Hearts
+4 of Spades
+5 of Clubs
+6 of Diamonds
+7 of Hearts
+8 of Spades
+9 of Clubs
+10 of Diamonds
+Jack of Hearts
+Queen of Spades
+King of Clubs
+Ace of Diamonds
+2 of Hearts
+3 of Spades
+4 of Clubs
+5 of Diamonds
+6 of Hearts
+7 of Spades
+8 of Clubs
+9 of Diamonds
+10 of Hearts
+Jack of Spades
+Queen of Clubs
+King of Diamonds
+Ace of Hearts
+2 of Spades
+3 of Clubs
+4 of Diamonds
+5 of Hearts
+6 of Spades
+7 of Clubs
+8 of Diamonds
+9 of Hearts
+10 of Spades
+Jack of Clubs
+Queen of Diamonds
+Ace of Spades
+3 of Diamonds
+
+suffle case 2
+[1][1] : 1
+[1][2] : 2
+[1][3] : 3
+[1][4] : 4
+[1][5] : 5
+[1][6] : 6
+[1][7] : 7
+[1][8] : 8
+[1][9] : 9
+[1][10] : 10
+[1][11] : 11
+[1][12] : 12
+[1][13] : 13
+[1][14] : 14
+[1][15] : 15
+[1][16] : 16
+[1][17] : 17
+[1][18] : 18
+[1][19] : 19
+[1][20] : 20
+[1][21] : 21
+[1][22] : 22
+[1][23] : 23
+[1][24] : 24
+[1][25] : 25
+[1][26] : 26
+[1][27] : 27
+[1][28] : 28
+[1][29] : 29
+[1][30] : 30
+[1][31] : 31
+[1][32] : 32
+[1][33] : 33
+[1][34] : 34
+[1][35] : 35
+[1][36] : 36
+[1][37] : 37
+[1][38] : 38
+[1][39] : 39
+[1][40] : 40
+[1][41] : 41
+[1][42] : 42
+[1][43] : 43
+[1][44] : 44
+[1][45] : 45
+[1][46] : 46
+[1][47] : 47
+[1][48] : 48
+[1][49] : 49
+[1][50] : 50
+[1][51] : 51
+[1][52] : 52
+[2][1] : 52
+[2][2] : 51
+[2][3] : 50
+[2][4] : 49
+[2][5] : 48
+[2][6] : 47
+[2][7] : 46
+[2][8] : 45
+[2][9] : 44
+[2][10] : 43
+[2][11] : 42
+[2][12] : 41
+[2][13] : 40
+[2][14] : 39
+[2][15] : 38
+[2][16] : 37
+[2][17] : 36
+[2][18] : 35
+[2][19] : 34
+[2][20] : 33
+[2][21] : 32
+[2][22] : 31
+[2][23] : 30
+[2][24] : 29
+[2][25] : 28
+[2][26] : 27
+[2][27] : 26
+[2][28] : 25
+[2][29] : 24
+[2][30] : 23
+[2][31] : 22
+[2][32] : 21
+[2][33] : 20
+[2][34] : 19
+[2][35] : 18
+[2][36] : 17
+[2][37] : 16
+[2][38] : 15
+[2][39] : 14
+[2][40] : 13
+[2][41] : 12
+[2][42] : 11
+[2][43] : 10
+[2][44] : 9
+[2][45] : 8
+[2][46] : 7
+[2][47] : 6
+[2][48] : 5
+[2][49] : 4
+[2][50] : 3
+[2][51] : 2
+[2][52] : 1
+start suffle!
+index size 2
+index 1
+src 0 dst 101
+k 1 shuffle_deck[index][k] = 1  dst 1
+k 2 shuffle_deck[index][k] = 2  dst 2
+k 3 shuffle_deck[index][k] = 3  dst 3
+k 4 shuffle_deck[index][k] = 4  dst 4
+k 5 shuffle_deck[index][k] = 5  dst 5
+k 6 shuffle_deck[index][k] = 6  dst 6
+k 7 shuffle_deck[index][k] = 7  dst 7
+k 8 shuffle_deck[index][k] = 8  dst 8
+k 9 shuffle_deck[index][k] = 9  dst 9
+k 10 shuffle_deck[index][k] = 10  dst 10
+k 11 shuffle_deck[index][k] = 11  dst 11
+k 12 shuffle_deck[index][k] = 12  dst 12
+k 13 shuffle_deck[index][k] = 13  dst 13
+k 14 shuffle_deck[index][k] = 14  dst 14
+k 15 shuffle_deck[index][k] = 15  dst 15
+k 16 shuffle_deck[index][k] = 16  dst 16
+k 17 shuffle_deck[index][k] = 17  dst 17
+k 18 shuffle_deck[index][k] = 18  dst 18
+k 19 shuffle_deck[index][k] = 19  dst 19
+k 20 shuffle_deck[index][k] = 20  dst 20
+k 21 shuffle_deck[index][k] = 21  dst 21
+k 22 shuffle_deck[index][k] = 22  dst 22
+k 23 shuffle_deck[index][k] = 23  dst 23
+k 24 shuffle_deck[index][k] = 24  dst 24
+k 25 shuffle_deck[index][k] = 25  dst 25
+k 26 shuffle_deck[index][k] = 26  dst 26
+k 27 shuffle_deck[index][k] = 27  dst 27
+k 28 shuffle_deck[index][k] = 28  dst 28
+k 29 shuffle_deck[index][k] = 29  dst 29
+k 30 shuffle_deck[index][k] = 30  dst 30
+k 31 shuffle_deck[index][k] = 31  dst 31
+k 32 shuffle_deck[index][k] = 32  dst 32
+k 33 shuffle_deck[index][k] = 33  dst 33
+k 34 shuffle_deck[index][k] = 34  dst 34
+k 35 shuffle_deck[index][k] = 35  dst 35
+k 36 shuffle_deck[index][k] = 36  dst 36
+k 37 shuffle_deck[index][k] = 37  dst 37
+k 38 shuffle_deck[index][k] = 38  dst 38
+k 39 shuffle_deck[index][k] = 39  dst 39
+k 40 shuffle_deck[index][k] = 40  dst 40
+k 41 shuffle_deck[index][k] = 41  dst 41
+k 42 shuffle_deck[index][k] = 42  dst 42
+k 43 shuffle_deck[index][k] = 43  dst 43
+k 44 shuffle_deck[index][k] = 44  dst 44
+k 45 shuffle_deck[index][k] = 45  dst 45
+k 46 shuffle_deck[index][k] = 46  dst 46
+k 47 shuffle_deck[index][k] = 47  dst 47
+k 48 shuffle_deck[index][k] = 48  dst 48
+k 49 shuffle_deck[index][k] = 49  dst 49
+k 50 shuffle_deck[index][k] = 50  dst 50
+k 51 shuffle_deck[index][k] = 51  dst 51
+k 52 shuffle_deck[index][k] = 52  dst 52
+index size 2
+index 1
+src 101 dst 102
+k 1 shuffle_deck[index][k] = 1  dst 1
+k 2 shuffle_deck[index][k] = 2  dst 2
+k 3 shuffle_deck[index][k] = 3  dst 3
+k 4 shuffle_deck[index][k] = 4  dst 4
+k 5 shuffle_deck[index][k] = 5  dst 5
+k 6 shuffle_deck[index][k] = 6  dst 6
+k 7 shuffle_deck[index][k] = 7  dst 7
+k 8 shuffle_deck[index][k] = 8  dst 8
+k 9 shuffle_deck[index][k] = 9  dst 9
+k 10 shuffle_deck[index][k] = 10  dst 10
+k 11 shuffle_deck[index][k] = 11  dst 11
+k 12 shuffle_deck[index][k] = 12  dst 12
+k 13 shuffle_deck[index][k] = 13  dst 13
+k 14 shuffle_deck[index][k] = 14  dst 14
+k 15 shuffle_deck[index][k] = 15  dst 15
+k 16 shuffle_deck[index][k] = 16  dst 16
+k 17 shuffle_deck[index][k] = 17  dst 17
+k 18 shuffle_deck[index][k] = 18  dst 18
+k 19 shuffle_deck[index][k] = 19  dst 19
+k 20 shuffle_deck[index][k] = 20  dst 20
+k 21 shuffle_deck[index][k] = 21  dst 21
+k 22 shuffle_deck[index][k] = 22  dst 22
+k 23 shuffle_deck[index][k] = 23  dst 23
+k 24 shuffle_deck[index][k] = 24  dst 24
+k 25 shuffle_deck[index][k] = 25  dst 25
+k 26 shuffle_deck[index][k] = 26  dst 26
+k 27 shuffle_deck[index][k] = 27  dst 27
+k 28 shuffle_deck[index][k] = 28  dst 28
+k 29 shuffle_deck[index][k] = 29  dst 29
+k 30 shuffle_deck[index][k] = 30  dst 30
+k 31 shuffle_deck[index][k] = 31  dst 31
+k 32 shuffle_deck[index][k] = 32  dst 32
+k 33 shuffle_deck[index][k] = 33  dst 33
+k 34 shuffle_deck[index][k] = 34  dst 34
+k 35 shuffle_deck[index][k] = 35  dst 35
+k 36 shuffle_deck[index][k] = 36  dst 36
+k 37 shuffle_deck[index][k] = 37  dst 37
+k 38 shuffle_deck[index][k] = 38  dst 38
+k 39 shuffle_deck[index][k] = 39  dst 39
+k 40 shuffle_deck[index][k] = 40  dst 40
+k 41 shuffle_deck[index][k] = 41  dst 41
+k 42 shuffle_deck[index][k] = 42  dst 42
+k 43 shuffle_deck[index][k] = 43  dst 43
+k 44 shuffle_deck[index][k] = 44  dst 44
+k 45 shuffle_deck[index][k] = 45  dst 45
+k 46 shuffle_deck[index][k] = 46  dst 46
+k 47 shuffle_deck[index][k] = 47  dst 47
+k 48 shuffle_deck[index][k] = 48  dst 48
+k 49 shuffle_deck[index][k] = 49  dst 49
+k 50 shuffle_deck[index][k] = 50  dst 50
+k 51 shuffle_deck[index][k] = 51  dst 51
+k 52 shuffle_deck[index][k] = 52  dst 52
+index size 2
+index 1
+src 102 dst 101
+k 1 shuffle_deck[index][k] = 1  dst 1
+k 2 shuffle_deck[index][k] = 2  dst 2
+k 3 shuffle_deck[index][k] = 3  dst 3
+k 4 shuffle_deck[index][k] = 4  dst 4
+k 5 shuffle_deck[index][k] = 5  dst 5
+k 6 shuffle_deck[index][k] = 6  dst 6
+k 7 shuffle_deck[index][k] = 7  dst 7
+k 8 shuffle_deck[index][k] = 8  dst 8
+k 9 shuffle_deck[index][k] = 9  dst 9
+k 10 shuffle_deck[index][k] = 10  dst 10
+k 11 shuffle_deck[index][k] = 11  dst 11
+k 12 shuffle_deck[index][k] = 12  dst 12
+k 13 shuffle_deck[index][k] = 13  dst 13
+k 14 shuffle_deck[index][k] = 14  dst 14
+k 15 shuffle_deck[index][k] = 15  dst 15
+k 16 shuffle_deck[index][k] = 16  dst 16
+k 17 shuffle_deck[index][k] = 17  dst 17
+k 18 shuffle_deck[index][k] = 18  dst 18
+k 19 shuffle_deck[index][k] = 19  dst 19
+k 20 shuffle_deck[index][k] = 20  dst 20
+k 21 shuffle_deck[index][k] = 21  dst 21
+k 22 shuffle_deck[index][k] = 22  dst 22
+k 23 shuffle_deck[index][k] = 23  dst 23
+k 24 shuffle_deck[index][k] = 24  dst 24
+k 25 shuffle_deck[index][k] = 25  dst 25
+k 26 shuffle_deck[index][k] = 26  dst 26
+k 27 shuffle_deck[index][k] = 27  dst 27
+k 28 shuffle_deck[index][k] = 28  dst 28
+k 29 shuffle_deck[index][k] = 29  dst 29
+k 30 shuffle_deck[index][k] = 30  dst 30
+k 31 shuffle_deck[index][k] = 31  dst 31
+k 32 shuffle_deck[index][k] = 32  dst 32
+k 33 shuffle_deck[index][k] = 33  dst 33
+k 34 shuffle_deck[index][k] = 34  dst 34
+k 35 shuffle_deck[index][k] = 35  dst 35
+k 36 shuffle_deck[index][k] = 36  dst 36
+k 37 shuffle_deck[index][k] = 37  dst 37
+k 38 shuffle_deck[index][k] = 38  dst 38
+k 39 shuffle_deck[index][k] = 39  dst 39
+k 40 shuffle_deck[index][k] = 40  dst 40
+k 41 shuffle_deck[index][k] = 41  dst 41
+k 42 shuffle_deck[index][k] = 42  dst 42
+k 43 shuffle_deck[index][k] = 43  dst 43
+k 44 shuffle_deck[index][k] = 44  dst 44
+k 45 shuffle_deck[index][k] = 45  dst 45
+k 46 shuffle_deck[index][k] = 46  dst 46
+k 47 shuffle_deck[index][k] = 47  dst 47
+k 48 shuffle_deck[index][k] = 48  dst 48
+k 49 shuffle_deck[index][k] = 49  dst 49
+k 50 shuffle_deck[index][k] = 50  dst 50
+k 51 shuffle_deck[index][k] = 51  dst 51
+k 52 shuffle_deck[index][k] = 52  dst 52
+index size 1
+DBG Break
+2 of Clubs
+3 of Diamonds
+4 of Hearts
+5 of Spades
+6 of Clubs
+7 of Diamonds
+8 of Hearts
+9 of Spades
+10 of Clubs
+Jack of Diamonds
+Queen of Hearts
+King of Spades
+Ace of Clubs
+2 of Diamonds
+3 of Hearts
+4 of Spades
+5 of Clubs
+6 of Diamonds
+7 of Hearts
+8 of Spades
+9 of Clubs
+10 of Diamonds
+Jack of Hearts
+Queen of Spades
+King of Clubs
+Ace of Diamonds
+2 of Hearts
+3 of Spades
+4 of Clubs
+5 of Diamonds
+6 of Hearts
+7 of Spades
+8 of Clubs
+9 of Diamonds
+10 of Hearts
+Jack of Spades
+Queen of Clubs
+King of Diamonds
+Ace of Hearts
+2 of Spades
+3 of Clubs
+4 of Diamonds
+5 of Hearts
+6 of Spades
+7 of Clubs
+8 of Diamonds
+9 of Hearts
+10 of Spades
+Jack of Clubs
+Queen of Diamonds
+King of Hearts
+Ace of Spades
+
