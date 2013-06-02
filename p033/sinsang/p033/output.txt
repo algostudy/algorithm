@@ -1,0 +1,16 @@
+diff = -1000, first = 0
+after diff = -1000
+diff = 0, first = 0
+after diff = 0
+diff = 1000, first = 0
+after diff = 1000
+$10.00
+diff = 599, first = 9
+after diff = 599
+diff = 600, first = 0
+after diff = 600
+diff = -600, first = 0
+after diff = -600
+diff = -599, first = -9
+after diff = -599
+$11.99
