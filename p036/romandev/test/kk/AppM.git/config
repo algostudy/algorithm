@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	fetch = +refs/*:refs/*
+	mirror = true
+	url = gitmanager@14.63.213.225:repositories/AppM.git
