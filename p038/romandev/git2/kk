@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd appm
+
+cp ../sdk.tar.gzac . && git add * && git commit -m "add android sdk" && git push http://romandev:zino7570@github.com/appm/appm.git build --progress
